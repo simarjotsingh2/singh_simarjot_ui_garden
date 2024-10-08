@@ -44,3 +44,21 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+// docker file starting
+# Component Library
+
+This project is a React component library built using Storybook. It contains a set of reusable UI components.
+
+## Getting Started
+
+### Prerequisites
+- Docker installed on your machine
+
+### Running the Application
+
+1. **Clone the repository**:
+   ```bash
+   git clone <repository-url>
+   cd my-component-library
+
